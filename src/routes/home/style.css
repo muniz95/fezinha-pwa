@@ -1,0 +1,17 @@
+.home {
+    padding: 56px 20px;
+    min-height: 100%;
+    height: 100%;
+    width: 100%;
+}
+
+.gameRow {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.gameCircle {
+	width: 100%;
+	text-align: center;
+}
