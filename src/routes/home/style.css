@@ -7,11 +7,40 @@
 
 .gameRow {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .gameCircle {
-	width: 100%;
+	width: 20%;
 	text-align: center;
+}
+
+.megasena {
+    background-color: #209869;
+}
+
+.lotofacil {
+    background-color: #930089;
+}
+
+.quina {
+    background-color: #260085;
+}
+
+.lotomania {
+    background-color: #F78100;
+}
+
+.timemania {
+    background-color: #00FF48;
+}
+
+.duplasena {
+    background-color: #BF194E;
+}
+
+.diaDeSorte {
+    background-color: #CB852B;
 }

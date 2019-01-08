@@ -1,6 +1,6 @@
 {
-  "name": "fezinha-pwa",
-  "short_name": "fezinha-pwa",
+  "name": "Fezinha",
+  "short_name": "Fezinha",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
