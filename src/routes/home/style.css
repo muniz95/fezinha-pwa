@@ -10,11 +10,19 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
+    height: 25%;
 }
 
 .gameCircle {
-	width: 20%;
+	width: 80px;
+	height: 80px;
+	margin: 5px;
 	text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%;
+    color: white;
 }
 
 .megasena {
