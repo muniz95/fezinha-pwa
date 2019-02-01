@@ -5,12 +5,16 @@
     width: 100%;
 }
 
+.title {
+    height: 10%;
+}
+
 .gameRow {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
-    height: 25%;
+    height: 50%;
 }
 
 .gameCircle {
@@ -23,6 +27,14 @@
     display: flex;
     border-radius: 50%;
     color: white;
+}
+
+.numbersRow {
+    height: 40%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .megasena {
