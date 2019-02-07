@@ -26,7 +26,15 @@
     justify-content: center;
     display: flex;
     border-radius: 50%;
+    font-size: 0.8em;
+}
+
+.lightFont {
     color: white;
+}
+
+.darkFont {
+    color: black;
 }
 
 .numbersRow {
